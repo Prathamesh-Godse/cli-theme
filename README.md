@@ -1,5 +1,5 @@
 # CLI Theme (for WordPress)
 
-Gives the Linux and BSD look to the Wordpress Website.
+Gives a Linux and BSD look to your static Wordpress Website.
 
 Currently being developed for my Portfolio Website
